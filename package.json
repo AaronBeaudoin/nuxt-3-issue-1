@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "nuxi dev --host",
+    "build": "nuxi build"
+  },
+  "dependencies": {
+    "nuxt": "^3.8.0"
+  },
+  "volta": {
+    "node": "18.18.2"
+  }
+}
